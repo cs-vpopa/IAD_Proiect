@@ -9,8 +9,6 @@ This repository contains a Flask application for seed clustering.
 - `seeds.csv`: Dataset used for clustering.
 
 ## Instructions
-1. Clone the repository.
-2. Navigate to the directory.
-3. Run the Flask application:
+1. Clone the repository:
    ```bash
-   python iad_app.py
+   git clone https://github.com/cs-vpopa/IAD_Proiect.git
